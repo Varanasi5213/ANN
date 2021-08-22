@@ -5,4 +5,5 @@
 **Work Details**
 1. Here we try to fetch information from a news article.
 2. Use the TF-IDF method to extract information from them and find cosine similarity.
+
 Resources: https://medium.com/analytics-vidhya/tf-idf-basic-information-and-logic-2e416ee9866f
